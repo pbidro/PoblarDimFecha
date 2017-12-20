@@ -1,4 +1,6 @@
-# PoblarDimFechaCREATE PROCEDURE PDF
+#PoblarDimFecha
+
+CREATE PROCEDURE PDF
 @nk datetime 
 
 AS 
